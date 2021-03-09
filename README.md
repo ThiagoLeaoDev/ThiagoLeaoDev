@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Thiago Leão! :D
+## Front End Developer | UI Designer
 
-<!--
-**ThiagoLeaoDev/ThiagoLeaoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Leão-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=79FE96&link=https://www.linkedin.com/in/thiagoleaodev/)](https://www.linkedin.com/in/thiagoleaodev/)
+[![Gmail Badge](https://img.shields.io/badge/-thiagoleao.dev@gmail.com-2E2D2E?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=79FE96&link=mailto:thiagoleao.dev@gmail.com)](mailto:thiagoleao.dev@gmail.com)
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoLeaoDev&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### I’m currently working on: [Double2](https://github.com/ThiagoLeaoDev/Double2).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoLeaoDev&repo=Double2&theme=dark)](https://github.com/ThiagoLeaoDev/Double2)
+
+<img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-151515?style=flat-square&labelColor=000000&logo=visual-studio-code&logoColor=79FE96" /><img align="center" alt="HTML5" src="https://img.shields.io/badge/-HTML5-151515?style=flat-square&labelColor=000000&logo=HTML5&logoColor=79FE96" /><img align="center" alt="CSS3" src="https://img.shields.io/badge/-CSS3-151515?style=flat-square&labelColor=000000&logo=css3&logoColor=79FE96" /><img align="center" alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-151515?style=flat-square&labelColor=000000&logo=Adobe XD&logoColor=79FE96" /><img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-151515?style=flat-square&labelColor=000000&logo=javascript&logoColor=79FE96" /><img align="center" alt="React" src="https://img.shields.io/badge/-React-151515?style=flat-square&labelColor=000000&logo=react&logoColor=79FE96" /><img align="center" alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-151515?style=flat-square&labelColor=000000&logo=styled-components&logoColor=79FE96" /><img align="center" alt="Spark AR" src="https://img.shields.io/badge/-Spark%20AR-151515?style=flat-square&labelColor=000000&logo=Spark AR&logoColor=79FE96" />
+<br />
+<br />
+
+
+### Languages and Tools:
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfverissimo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Thiago wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoLeaoDev&theme=dark)](https://github.com/ThiagoLeaoDev)
