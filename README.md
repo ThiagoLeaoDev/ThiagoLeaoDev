@@ -1,4 +1,4 @@
-# Hi, I'm Thiago Leão! :D
+# Hi, I'm Thiago Leão! 🦁
 ## Front End Developer | UI Designer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Leão-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=79FE96&link=https://www.linkedin.com/in/thiagoleaodev/)](https://www.linkedin.com/in/thiagoleaodev/) [![Gmail Badge](https://img.shields.io/badge/-thiagoleao.dev@gmail.com-2E2D2E?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=79FE96&link=mailto:thiagoleao.dev@gmail.com)](mailto:thiagoleao.dev@gmail.com)
