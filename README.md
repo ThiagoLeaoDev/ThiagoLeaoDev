@@ -17,6 +17,6 @@
 ### Languages and Tools:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfverissimo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLeaoDev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Thiago wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoLeaoDev&theme=dark)](https://wakatime.com/@ThiagoLeaoDev)
