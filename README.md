@@ -1,6 +1,8 @@
 # Hi, I'm Thiago Leão!
 ## Front End Developer | UI Designer
-
+My Portfolio: https://thiagoleaodev.vercel.app
+<br/>
+<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Leão-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=79FE96&link=https://www.linkedin.com/in/thiagoleaodev/)](https://www.linkedin.com/in/thiagoleaodev/) [![Gmail Badge](https://img.shields.io/badge/-thiagoleao.dev@gmail.com-2E2D2E?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=79FE96&link=mailto:thiagoleao.dev@gmail.com)](mailto:thiagoleao.dev@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoLeaoDev&show_icons=true&theme=dark)
